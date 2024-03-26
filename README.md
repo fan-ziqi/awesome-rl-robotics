@@ -16,6 +16,8 @@ https://github.com/roboterax/humanoid-gym
 
 https://github.com/wangcongrobot/awesome-isaac-gym
 
+https://github.com/curieuxjy/Awesome_Quadrupedal_Robots
+
 https://github.com/Improbable-AI/walk-these-ways
 
 https://github.com/ZiwenZhuang/parkour
